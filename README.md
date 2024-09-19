@@ -11,7 +11,7 @@ I am a skilled **Business Analytics** with a proven track record of designing da
 ## 🔗 Find me around the web:
 - <a href="https://resume-ms.com" target="_blank">My Website</a>
 - <a href="https://linkedin.com/in/mshapovalov" target="_blank">LinkedIn</a>
-- <a href="https://github.com/mshapovalov" target="_blank">GitHub</a>
+- <a href="https://github.com/shapovalov-maks" target="_blank">GitHub</a>
 
 ## 📂 Recent Projects:
 - **<a href="https://bi-resume.resume-ms.com/" target="_blank">My Resume in Power BI</a>** – Developed an interactive Resume in Power BI
