@@ -25,5 +25,5 @@ Heroku
 - **Ukrainian & Russian** (native), **English** (intermediate)
 ## 🌐 Let's Connect:
 - [LinkedIn](https://linkedin.com/in/mshapovalov)
-- [GitHub](https://github.com/mshapovalov)
+- [GitHub](https://github.com/shapovalov-maks)
 
