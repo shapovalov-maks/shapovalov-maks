@@ -15,7 +15,7 @@ I am a skilled **Business Analytics** with a proven track record of designing da
 
 ## 📂 Recent Projects:
 - **<a href="https://bi-resume.resume-ms.com/" target="_blank">My Resume in Power BI</a>** – Developed an interactive Resume in Power BI
-- **<a href="https://geo-quiz-403258dfbda4.herokuapp.com/" target="_blank">Geography Quiz</a>** – Web application for testing geography knowledge using Flask, HTML/CSS, and
+- **<a href="https://geography-rlp2.onrender.com/" target="_blank">Geography Quiz</a>** – Web application for testing geography knowledge using Flask, HTML/CSS, and
 Heroku
 - **<a href="https://advertise.resume-ms.com/" target="_blank">Web Marketing Dashboard in Power BI</a>** – Traffic analysis from different advertising sourses
 - **<a href="https://dashboard4.resume-ms.com/" target="_blank">Example Dashboard in Power BI</a>** – Developed an interactive Dashboard in Power BI
